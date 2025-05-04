@@ -13,7 +13,6 @@ Insert a short description of the project
 - <b>Linux Ubuntu</b>
 
 <h2>Project walk-through:</h2>
-
 - <b>What is Burp Suite?</b>
 <p>Description</p>
 <br>
